@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
+gem 'thin'
+
 gem 'pg'
+
 gem 'sqlite3'
 
 gem 'bootstrap-sass',       '3.2.0.0'
