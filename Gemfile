@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-
+gem 'pg'
 gem 'sqlite3'
 
 gem 'bootstrap-sass',       '3.2.0.0'
